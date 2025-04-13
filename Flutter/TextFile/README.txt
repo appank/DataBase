@@ -8,4 +8,4 @@ CREATE TABLE users (
   email VARCHAR(100)
 );
 
-2. Jalankan di localhost, mulai dari index.php.
+2. Jalankan di localhost, mulai dari index.php. oke
